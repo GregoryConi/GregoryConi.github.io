@@ -3,8 +3,6 @@
 
 ![Alt Text](https://raw.githubusercontent.com/GregoryConi/GregoryConi.github.io/main/Greg%20Profile%20Photo%202023.jpg)
 
-![Alt Text](https://raw.githubusercontent.com/GregoryConi/GregoryConi.github.io/main/Greg%20Profile%20Photo%202023.jpg)
-
 <img src="https://raw.githubusercontent.com/GregoryConi/GregoryConi.github.io/main/Greg%20Profile%20Photo%202023.jpg" alt="Alt Text" width="150">
 
 
