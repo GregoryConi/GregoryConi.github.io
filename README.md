@@ -7,5 +7,4 @@ BCom (Business Management)
 p1
 p2
 
-![Alt Text]Greg%20Profile%20Photo%202023.jpg)
-
+![Alt Text](https://github.com/GregoryConi/GregoryConi.github.io/blob/main/Greg%20Profile%20Photo%202023.jpg) width = "100"
