@@ -1,5 +1,5 @@
 # GregoryConi.github.io
-<img src="https://github.com/GregoryConi/GregoryConi.github.io/blob/main/Greg%20Profile%20Photo%202023.jpg" alt="Alt Text" width="200">
+<img src="https://github.com/GregoryConi/GregoryConi.github.io/blob/main/Greg%20Profile%20Photo%202023.jpg" alt="Alt Text" width="150">
 ## Data / BI Analyst
 
 ## Education
