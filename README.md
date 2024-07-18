@@ -17,6 +17,14 @@ Introduction to Data Analytics / Career Foundry (Sep 2023)
 Python Basics University of Michigan / Coursera (Aug 2021)
 
 ### Projects
-p1
-p2
+R Programming: Capstone portfolio project - Cyclistic bike share
+
+Excel portfolio project - Coffee sales
+
+SQL portfolio project - Apple AppStore
+
+Tableau portfolio project - British Airways Review
+
+Power BI portfolio project - Healthcare Patient Waiting List
+
 
