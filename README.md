@@ -4,6 +4,7 @@
 
 ## Education
 BCom (Business Management)
+
 Diploma in Business Management and Entrepreneurship
 
 ### Work Experience
