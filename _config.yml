@@ -1,5 +1,6 @@
 title: Gregory Coni
-logo: /assets/img/Greg Profile Photo 2023.jpg
+#logo: /assets/img/Greg Profile Photo 2023.jpg
+logo: Greg Profile Photo 2023.jpg
 description: Data Analyst well versed in SQL, Tabeau, Power BI and Excel
 #show_downloads: true
 theme: jekyll-theme-cayman
