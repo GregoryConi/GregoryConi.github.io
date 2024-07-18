@@ -6,4 +6,5 @@ BCom (Business Management)
 ### Projects
 p1
 p2
-https://github.com/GregoryConi/GregoryConi/Greg Profile Photo 2023.jpg
+
+https://github.com/GregoryConi/GregoryConi.github.io/blob/main/Greg%20Profile%20Photo%202023.jpg
