@@ -7,7 +7,14 @@ BCom (Business Management)
 
 Diploma in Business Management and Entrepreneurship
 
-### Work Experience
+### Courses / Certifications
+Google Data Analytics Professional Certificate / Coursera (Sep 2023 Feb 2024)
+
+SQL 101: A Beginners Guide to SQL / Udemy (Oct 2023)
+
+Introduction to Data Analytics / Career Foundry (Sep 2023)
+
+Python Basics University of Michigan / Coursera (Aug 2021)
 
 ### Projects
 p1
